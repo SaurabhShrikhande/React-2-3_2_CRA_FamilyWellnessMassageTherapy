@@ -1,4 +1,4 @@
-#[Hosted Link](https://clever-crostata-1395f6.netlify.app/}
+# [Hosted Link](https://clever-crostata-1395f6.netlify.app/}
 
 # Getting Started with Create React App
 
